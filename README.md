@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android App Development, AWS**
 
-- 👨‍💻 All of my projects are available at [https://saikumar.pro/]( SAIKUMAR.PRO)
+- 👨‍💻 All of my projects are available at [ SAIKUMAR.PRO](https://saikumar.pro/)
 
 - 💬 Ask me about **C++,C,Java,Javascript,MERN,Python,Dsa**
 

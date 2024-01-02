@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chsaikumar445" alt="chsaikumar445" /></a> </p>
 
-- 🌱 I’m currently learning **Android App Development, AWS**
+- 🌱 I’m currently learning **AZURE, ASSEMBLY, OPERATING SYSTEMS**
 
 - 👨‍💻 All of my projects are available at [ SAIKUMAR.PRO](https://saikumar.pro/)
 
-- 💬 Ask me about **C++,C,Java,Javascript,MERN,Python,Dsa**
+- 💬 Ask me about **C++,C,Java,Javascript,MERN,Python,Dsa, OPERATING SYSTEMS**
 
 - 📫 How to reach me **challagundlasaikumar30@gmail.com**
 

@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [ SAIKUMAR.PRO](https://saikumar.pro/)
 
-- 💬 Ask me about **C++,C,Java,Javascript,MERN,Python,Dsa, OPERATING SYSTEMS**
+- 💬 Ask me about **C++,C,Java,Javascript,React,Node.js, Express.js,MongoDB,Python,Dsa, OPERATING SYSTEMS**
 
 - 📫 How to reach me **challagundlasaikumar30@gmail.com**
 
